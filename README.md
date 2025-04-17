@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/Lacruz0599/Lacruz0599/blob/main/2ae34fb1-44e9-4338-98b1-d3b0816f685e.png" alt="banner" width="100%" />
+</p>
 
 <h1 align="center">¡Hola, soy César Eduardo Cruz Cabrera!</h1>
 <p align="center">
