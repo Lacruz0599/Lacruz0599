@@ -65,8 +65,6 @@ Aquí algunos de los proyectos que he desarrollado recientemente:
 
 ## Contacto
 
-## Contacto
-
 ¿Te interesa colaborar o tienes una propuesta profesional?
 
 <p>
