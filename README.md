@@ -8,6 +8,9 @@
 </p>
 
 <p align="center">
+  <a href="mailto:cesareduardocruzcabrera@gmail.com">
+    <img src="https://img.shields.io/badge/Correo%20electrónico-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
   <a href="https://www.linkedin.com/in/cesar-eduardo-cruz-cabrera"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
   <img src="https://komarev.com/ghpvc/?username=cesar-eduardo-cruz-cabrera&style=for-the-badge&color=blue" alt="visitors"/>
 </p>
@@ -62,9 +65,14 @@ Aquí algunos de los proyectos que he desarrollado recientemente:
 
 ## Contacto
 
+## Contacto
+
 ¿Te interesa colaborar o tienes una propuesta profesional?
 
 <p>
+  <a href="mailto:cesareduardocruzcabrera@gmail.com">
+    <img src="https://img.shields.io/badge/Correo%20electrónico-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
   <a href="https://www.linkedin.com/in/cesar-eduardo-cruz-cabrera">
     <img src="https://img.shields.io/badge/Conecta%20en%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
