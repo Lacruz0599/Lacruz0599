@@ -4,7 +4,7 @@
 
 <h1 align="center">¡Hola, soy César Eduardo Cruz Cabrera!</h1>
 <p align="center">
-  <em>Apasionado por la Ciencia de Datos | Futuro especialista en banca | Estudiante y creador de proyectos</em>
+  <em>Apasionado por la Ciencia de Datos | Futuro especialista en banca | Creador de proyectos</em>
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 ## Sobre mí
 
-Soy un estudiante de **Ciencia de Datos** con experiencia práctica desarrollando soluciones basadas en datos. Recientemente completé el bootcamp de **TripleTen** y estoy por terminar la universidad en aproximadamente un año. Me interesa crear soluciones que generen impacto, especialmente en el sector **financiero y bancario**, aunque actualmente trabajo en proyectos diversos para seguir aprendiendo y creciendo.
+Soy un **apasionado por la Ciencia de Datos** con experiencia práctica desarrollando soluciones basadas en datos. Recientemente completé el bootcamp de **TripleTen** y estoy por terminar la universidad en aproximadamente un año. Me interesa crear soluciones que generen impacto, especialmente en el sector **financiero y bancario**, aunque actualmente trabajo en proyectos diversos para seguir aprendiendo y creciendo.
 
 ---
 
