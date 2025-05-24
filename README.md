@@ -4,7 +4,7 @@
 
 <h1 align="center">¡Hola, soy César Eduardo Cruz Cabrera!</h1>
 <p align="center">
-  <em>Apasionado por la Ciencia de Datos | Futuro especialista en banca | Creador de proyectos</em>
+  <em>Enfocado en resultados | Apasionado por la analítica y el aprendizaje automático | Desarrollador de soluciones basadas en datos</em>
 </p>
 
 <p align="center">
