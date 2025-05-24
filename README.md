@@ -48,16 +48,27 @@ Científico de Datos con habilidades en el desarrollo de modelos predictivos, an
 
 ---
 
-## Proyectos destacados
+## Proyectos Destacados
+### Predicción de abandono de clientes en telecomunicaciones
+[Repositorio de Github](https://github.com/Lacruz0599/prediccion-de-abandono-de-clientes-Telecom)
 
-Aquí algunos de los proyectos que he desarrollado recientemente:
+Este proyecto de ciencia de datos se enfoca en predecir la pérdida de clientes (churn) mediante la implementación de un modelo de machine learning entrenado con datos históricos de comportamiento de usuario. El modelo alcanzó un AUC-ROC de 0.934, lo que indica una alta capacidad para distinguir entre clientes que abandonan el servicio y los que permanecen. Además del análisis y entrenamiento del modelo, el proyecto incluye el desarrollo de una API REST con FastAPI, que permite realizar predicciones en tiempo real, y una interfaz web interactiva construida con Streamlit, diseñada para facilitar la interacción con el modelo por parte de usuarios no técnicos. Este enfoque integral permite integrar el modelo predictivo en entornos productivos, habilitando acciones preventivas y decisiones basadas en datos para reducir la tasa de abandono de clientes.
 
-- Predicción de cancelación de clientes (*Churn prediction*)
-- Análisis exploratorio y visualización de ventas de videojuegos
-- Clasificador de pozos petroleros con regresión lineal y bootstrapping
-- Aplicaciones interactivas con Streamlit para visualización de datos
 
-*Puedes verlos directamente en mis repositorios.*
+![Churn App](assets/img/jbnjnnkmkk.png)
+
+### Segmentación de Clientes con Clustering RFM
+[Repositorio de Github](https://github.com/Lacruz0599/credit-default-scorecard)
+
+Este proyecto tiene como objetivo aplicar técnicas de aprendizaje no supervisado para segmentar clientes de un negocio de retail en línea, utilizando datos históricos de transacciones. A través del enfoque RFM (Recency, Frequency, Monetary), se analizó el comportamiento de compra de cada cliente en función de la fecha de su última compra, la frecuencia con la que realiza pedidos y el monto total que ha gastado. Esta segmentación permitió identificar patrones de comportamiento diferenciados entre grupos de clientes, lo que a su vez facilita la toma de decisiones estratégicas en áreas como marketing personalizado, fidelización y reactivación de usuarios. Al entender mejor las características y necesidades de cada segmento, la empresa puede diseñar campañas más efectivas y enfocadas, optimizando así los recursos y maximizando el valor de cada cliente.
+![Credit Scoring](assets/img/bhsbndchsdch.png)
+
+### Análisis exploratorio de ventas en videojuegos
+[Repositorio de Github](https://github.com/Lacruz0599/creando-perfiles-de-ventas-para-regiones-mundiales)
+
+Este proyecto consistió en un análisis exploratorio de datos de ventas de videojuegos con el objetivo de identificar las plataformas, géneros y clasificaciones (ratings) más rentables en distintas regiones del mundo. A partir del procesamiento y visualización de los datos, se analizaron patrones de consumo diferenciados en Norteamérica, Europa y Japón, lo que permitió construir perfiles de comportamiento según las preferencias regionales. Este enfoque no solo facilitó la detección de tendencias globales en la industria del videojuego, sino que también proporcionó información valiosa para la toma de decisiones estratégicas en áreas como marketing, desarrollo de productos y distribución internacional.
+![Game Sales EDA](assets/img/file_00000000b52061f7b5a889c5a629bf07.png)
+
 
 ---
 
