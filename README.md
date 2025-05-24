@@ -2,7 +2,7 @@
   <img src="https://github.com/Lacruz0599/Lacruz0599/blob/main/Científico de datos._20250524_111907_0000.png" alt="banner" width="100%" />
 </p>
 
-<h1 align="center">¡Hola, soy César Eduardo Cruz Cabrera!</h1>
+<h1 align="center">¡Hola, soy Cesar Eduardo Cruz Cabrera!</h1>
 <p align="center">
   <em>Enfocado en resultados | Apasionado por la analítica y el aprendizaje automático | Desarrollador de soluciones basadas en datos</em>
 </p>
