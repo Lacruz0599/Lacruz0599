@@ -48,22 +48,6 @@ Científico de Datos con habilidades en el desarrollo de modelos predictivos, an
 
 ---
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="40" height="40"/>&nbsp;
-</p>
-
-- **Lenguaje principal:** Python  
-- **Bibliotecas:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow  
-- **Frameworks:** FastAPI, Streamlit  
-- **Conocimientos clave:** Estadística, Machine Learning, Deep Learning, EDA, Despliegue básico  
-- **Control de versiones:** Git, GitHub
-
----
-
 ## Proyectos destacados
 
 Aquí algunos de los proyectos que he desarrollado recientemente:
